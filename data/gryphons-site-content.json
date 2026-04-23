@@ -1,0 +1,872 @@
+{
+  "source": {
+    "siteName": "Gryphons",
+    "baseUrl": "https://gryphons.sg/",
+    "scrapedAt": "2026-04-23T06:49:20.230Z",
+    "maxPages": 50
+  },
+  "summary": {
+    "pagesCaptured": 1,
+    "pageUrls": [
+      "https://gryphons.sg/"
+    ],
+    "assetsCaptured": 10,
+    "errors": []
+  },
+  "assets": [
+    {
+      "url": "https://gryphons.sg/assets/GryphonsLightLogo.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\GryphonsLightLogo.png",
+      "contentType": "image/png",
+      "size": 50437
+    },
+    {
+      "url": "https://gryphons.sg/assets/Griffin_small_light.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\Griffin_small_light.png",
+      "contentType": "image/png",
+      "size": 49509
+    },
+    {
+      "url": "https://gryphons.sg/assets/community.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\community.png",
+      "contentType": "image/png",
+      "size": 562623
+    },
+    {
+      "url": "https://gryphons.sg/assets/isaca.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\isaca.png",
+      "contentType": "image/png",
+      "size": 24362
+    },
+    {
+      "url": "https://gryphons.sg/assets/icons8-shirt-100.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\icons8-shirt-100.png",
+      "contentType": "image/png",
+      "size": 1171
+    },
+    {
+      "url": "https://gryphons.sg/assets/merchandise/dcdf_shirt_black.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\dcdf_shirt_black.png",
+      "contentType": "image/png",
+      "size": 203512
+    },
+    {
+      "url": "https://gryphons.sg/assets/merchandise/dcdf_shirt_white.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\dcdf_shirt_white.png",
+      "contentType": "image/png",
+      "size": 203577
+    },
+    {
+      "url": "https://gryphons.sg/assets/merchandise/gryphons_varsity_jacket.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\gryphons_varsity_jacket.png",
+      "contentType": "image/png",
+      "size": 172696
+    },
+    {
+      "url": "https://gryphons.sg/assets/merchandise/dcdf_windbreaker.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\dcdf_windbreaker.png",
+      "contentType": "image/png",
+      "size": 220905
+    },
+    {
+      "url": "https://gryphons.sg/assets/herobackground.png",
+      "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\herobackground.png",
+      "contentType": "image/png",
+      "size": 1194386
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://gryphons.sg/",
+      "path": "/",
+      "slug": "home",
+      "title": "Gryphons",
+      "language": "en",
+      "metaTags": [
+        {
+          "key": "viewport",
+          "value": "width=device-width, initial-scale=1.0"
+        }
+      ],
+      "canonical": null,
+      "headings": [
+        {
+          "level": "h1",
+          "text": "We Are Gryphons.",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Run By Students, For Students.",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Our Mission Statement",
+          "id": null
+        },
+        {
+          "level": "h2",
+          "text": "“Fostering a strong community for all students of School of Computing (SoC) who are passionate about cybersecurity and providing opportunities for all to build technical competencies in cybersecurity through workshops and events.”",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Sparking Interests",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Practical Applications",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "ISACA Student Chapter",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "We are the official ISACA Student Chapter of Singapore Polytechnic!",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Chapter Missions",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Expand Recognition",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Education",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Featured Events",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "GTACS",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "BlackHat Asia",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Our Events",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "🐉",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "Gryphons CTF",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "💻",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "Youth Cyber Exploration Programme",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "⛳",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "CTF101",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "🎭",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "Lag and Crash CTF",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "🔥",
+          "id": null
+        },
+        {
+          "level": "h5",
+          "text": "Gryphons CyberBlitz!",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Merchandise",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "We sell course-exclusive merchandise!",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "Check Out Our Past Designs!",
+          "id": null
+        },
+        {
+          "level": "h1",
+          "text": "FAQ",
+          "id": null
+        }
+      ],
+      "sections": [
+        {
+          "label": "nav",
+          "displayTitle": null,
+          "tag": "nav",
+          "id": null,
+          "ids": [],
+          "classes": "w-full flex py-6 px-12 min-h-max justify-between items-center navbar fixed top-0 z-50 transition duration-1000 bg-gryphons-blue/70 backdrop-blur",
+          "text": "About Us ISACA Events Merchandise FAQ",
+          "headings": [],
+          "paragraphs": [],
+          "listItems": [
+            "About Us",
+            "ISACA",
+            "Events",
+            "Merchandise",
+            "FAQ"
+          ],
+          "buttons": [],
+          "links": [
+            {
+              "text": "",
+              "href": "#",
+              "absoluteHref": "https://gryphons.sg/#",
+              "ariaLabel": null,
+              "target": null
+            },
+            {
+              "text": "About Us",
+              "href": "#aboutus",
+              "absoluteHref": "https://gryphons.sg/#aboutus",
+              "ariaLabel": null,
+              "target": null
+            },
+            {
+              "text": "ISACA",
+              "href": "#isaca",
+              "absoluteHref": "https://gryphons.sg/#isaca",
+              "ariaLabel": null,
+              "target": null
+            },
+            {
+              "text": "Events",
+              "href": "#events",
+              "absoluteHref": "https://gryphons.sg/#events",
+              "ariaLabel": null,
+              "target": null
+            },
+            {
+              "text": "Merchandise",
+              "href": "#merch",
+              "absoluteHref": "https://gryphons.sg/#merch",
+              "ariaLabel": null,
+              "target": null
+            },
+            {
+              "text": "FAQ",
+              "href": "#faq",
+              "absoluteHref": "https://gryphons.sg/#faq",
+              "ariaLabel": null,
+              "target": null
+            }
+          ],
+          "images": [
+            {
+              "src": "https://gryphons.sg/assets/GryphonsLightLogo.png",
+              "alt": "gryphonslogo"
+            }
+          ]
+        },
+        {
+          "label": "hero",
+          "displayTitle": "We Are Gryphons.",
+          "tag": "div",
+          "id": null,
+          "ids": [],
+          "classes": "px-16 md:pt-48 md:pb-64 pt-32 h-full bg-[url(\"herobackground.png\")] bg-center bg-cover bg-no-repeat",
+          "text": "We Are Gryphons. A Cybersecurity Student Interest Group based in Singapore Polytechnic Learn More",
+          "headings": [
+            "We Are Gryphons."
+          ],
+          "paragraphs": [
+            "A Cybersecurity Student Interest Group based in Singapore Polytechnic"
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [
+            {
+              "text": "Learn More",
+              "href": "#aboutus",
+              "absoluteHref": "https://gryphons.sg/#aboutus",
+              "ariaLabel": null,
+              "target": null
+            }
+          ],
+          "images": [
+            {
+              "src": "https://gryphons.sg/assets/Griffin_small_light.png",
+              "alt": "gryphonslogo"
+            }
+          ]
+        },
+        {
+          "label": "aboutus",
+          "displayTitle": "Run By Students, For Students.",
+          "tag": "div",
+          "id": "aboutus",
+          "ids": [
+            "aboutus"
+          ],
+          "classes": "xl:px-80 lg:px-48 px-10 py-32 bg-gryphons-blue grid sm:grid-cols-2 grid-cols-1 justify-center items-center content-center",
+          "text": "Run By Students, For Students. Gryphons are a group of students from Singapore Polytechnic's School of Computing (SoC) passionate about cybersecurity. We warmly welcome students from various disciplines across SoC with a common interest in cybersecurity and provide them with a cohesive community to belong and build technical skills together.",
+          "headings": [
+            "Run By Students, For Students."
+          ],
+          "paragraphs": [
+            "Gryphons are a group of students from Singapore Polytechnic's School of Computing (SoC) passionate about cybersecurity.",
+            "We warmly welcome students from various disciplines across SoC with a common interest in cybersecurity and provide them with a cohesive community to belong and build technical skills together."
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [],
+          "images": [
+            {
+              "src": "https://gryphons.sg/assets/community.png",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "label": "mission",
+          "displayTitle": "Our Mission Statement",
+          "tag": "div",
+          "id": "mission",
+          "ids": [
+            "mission"
+          ],
+          "classes": "justify-center items-center py-24 xl:px-80 lg:px-48 px-10",
+          "text": "Our Mission Statement “Fostering a strong community for all students of School of Computing (SoC) who are passionate about cybersecurity and providing opportunities for all to build technical competencies in cybersecurity through workshops and events.” Sparking Interests Exposing DCDF students to the world of information security through hands-on workshops, talks by industry professionals and networking opportunities. Practical Applications Providing many opportunities for our students to practice the technical skills they have learned in a safe and controlled environment.",
+          "headings": [
+            "Our Mission Statement",
+            "“Fostering a strong community for all students of School of Computing (SoC) who are passionate about cybersecurity and providing opportunities for all to build technical competencies in cybersecurity through workshops and events.”",
+            "Sparking Interests",
+            "Practical Applications"
+          ],
+          "paragraphs": [
+            "Exposing DCDF students to the world of information security through hands-on workshops, talks by industry professionals and networking opportunities.",
+            "Providing many opportunities for our students to practice the technical skills they have learned in a safe and controlled environment."
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [],
+          "images": []
+        },
+        {
+          "label": "isaca",
+          "displayTitle": "ISACA Student Chapter",
+          "tag": "div",
+          "id": "isaca",
+          "ids": [
+            "isaca"
+          ],
+          "classes": "justify-center items-center py-24 xl:px-80 lg:px-48 px-10 pt-48 pb-20 bg-gradient-to-b from-gryphons-blue to-cyan-900",
+          "text": "ISACA Student Chapter Singapore Polytechnic Group",
+          "headings": [
+            "ISACA Student Chapter"
+          ],
+          "paragraphs": [
+            "Singapore Polytechnic Group"
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [],
+          "images": [
+            {
+              "src": "https://gryphons.sg/assets/isaca.png",
+              "alt": "gryphonslogo"
+            }
+          ]
+        },
+        {
+          "label": "about-isaca",
+          "displayTitle": "We are the official ISACA Student Chapter of Singapore Polytechnic!",
+          "tag": "div",
+          "id": "about-isaca",
+          "ids": [
+            "about-isaca"
+          ],
+          "classes": "justify-center items-center xl:px-80 lg:px-48 px-10 pt-4 bg-cyan-900",
+          "text": "We are the official ISACA Student Chapter of Singapore Polytechnic! Recognised in January 2013, through student empowerment, the chapter aims to expand recognition of the IT Audit and Assurance, Security and IT Governance disciplines and focus areas by educating students about standards, practices and certification. The objectives of this chapter are the same as listed in the Professional Chapter and the Association's by-laws. Members and academic advocates of this Student Chapter are mainly from the Diploma in Cybersecurity and Digital Forensics, School of Computing of Singapore Polytechnic. Chapter Missions Expand Recognition Promoting and elevating the information systems audit, control and security profession throughout Singapore. Education Sponsoring location educational seminars and workshops, conducting regular chapter meetings to foster professional growth for all members. Featured Events GTACS The GTACS (Governance, Technology Audit, Control and Security) Conference is an annual event organised by the Singapore Chapter of ISACA. The event has seen strong support from the local ISACA community, including non-ISACA members. Through the series of GTACS conferences, ISACA Singapore Chapter hopes to bring value to the local Governance, Technology Audit, Compliance & Security community by creating a conducive environment for delegates to learn from distinguished experts, network with one another, and to interact with technology leaders. BlackHat Asia Black Hat is an information security event series held annually in the United States, Europe and Asia. With its maiden conference held in 1997, Black Hat has provided attendees with information security research, development, and trends for more than 20 years. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors.",
+          "headings": [
+            "We are the official ISACA Student Chapter of Singapore Polytechnic!",
+            "Chapter Missions",
+            "Expand Recognition",
+            "Education",
+            "Featured Events",
+            "GTACS",
+            "BlackHat Asia"
+          ],
+          "paragraphs": [
+            "Recognised in January 2013, through student empowerment, the chapter aims to expand recognition of the IT Audit and Assurance, Security and IT Governance disciplines and focus areas by educating students about standards, practices and certification.",
+            "The objectives of this chapter are the same as listed in the Professional Chapter and the Association's by-laws. Members and academic advocates of this Student Chapter are mainly from the Diploma in Cybersecurity and Digital Forensics, School of Computing of Singapore Polytechnic.",
+            "Promoting and elevating the information systems audit, control and security profession throughout Singapore.",
+            "Sponsoring location educational seminars and workshops, conducting regular chapter meetings to foster professional growth for all members.",
+            "The GTACS (Governance, Technology Audit, Control and Security) Conference is an annual event organised by the Singapore Chapter of ISACA. The event has seen strong support from the local ISACA community, including non-ISACA members. Through the series of GTACS conferences, ISACA Singapore Chapter hopes to bring value to the local Governance, Technology Audit, Compliance & Security community by creating a conducive environment for delegates to learn from distinguished experts, network with one another, and to interact with technology leaders.",
+            "Black Hat is an information security event series held annually in the United States, Europe and Asia. With its maiden conference held in 1997, Black Hat has provided attendees with information security research, development, and trends for more than 20 years. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors."
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [],
+          "images": []
+        },
+        {
+          "label": "events",
+          "displayTitle": "Our Events",
+          "tag": "div",
+          "id": "events",
+          "ids": [
+            "events"
+          ],
+          "classes": "justify-center items-center py-24 xl:px-52 lg:px-48 px-10 pt-36 pb-20 bg-gradient-to-b from-cyan-900 to-gryphons-blue",
+          "text": "Our Events Events, Talks, Workshops - You name it! 🐉 Gryphons CTF Gryphons CTF (or GCTF for short) is a jeopardy-style capture-the-flag (CTF) organised by Gryphons ourselves (of course) to expose students to the world of cybersecurity and put their offensive, defensive and investigate skills to the test! Complete challenges across various difficulties and categories to earn points. Climb the leaderboards and stand a chance to win attractive prizes! 💻 Youth Cyber Exploration Programme The Youth Cyber Exploration Programme (YCEP) is an exciting cybersecurity bootcamp specially designed to get students excited about their journey towards a cybersecurity career. YCEP was launched in 2018 and is organised by the five local polytechnics, Cyber Youth Singapore and supported by Cyber Security Agency (CSA). ⛳ CTF101 Want to compete in CTFs but don't know where to start? Then join us for CTF101, a workshop series targeted at beginners who want to start their CTF journey! You will learn the basics of CTFs and the skills needed to tackle a variety of challenges. 🎭 Lag and Crash CTF Lag and Crash is an inter-polytechnic CTF targeted at Polytechnic, Institute of Technical Education and Junior College students. The event is organised between the Polytechnic Cybersecurity Interest Groups. 🔥 Gryphons CyberBlitz! A thrilling monthly event brought to you by Gryphons. Brace yourself for mind-bending challenges released every month! The aim? Be the first to draw first blood and claim your bounty!",
+          "headings": [
+            "Our Events",
+            "🐉",
+            "Gryphons CTF",
+            "💻",
+            "Youth Cyber Exploration Programme",
+            "⛳",
+            "CTF101",
+            "🎭",
+            "Lag and Crash CTF",
+            "🔥",
+            "Gryphons CyberBlitz!"
+          ],
+          "paragraphs": [
+            "Events, Talks, Workshops - You name it!",
+            "Gryphons CTF (or GCTF for short) is a jeopardy-style capture-the-flag (CTF) organised by Gryphons ourselves (of course) to expose students to the world of cybersecurity and put their offensive, defensive and investigate skills to the test! Complete challenges across various difficulties and categories to earn points. Climb the leaderboards and stand a chance to win attractive prizes!",
+            "The Youth Cyber Exploration Programme (YCEP) is an exciting cybersecurity bootcamp specially designed to get students excited about their journey towards a cybersecurity career. YCEP was launched in 2018 and is organised by the five local polytechnics, Cyber Youth Singapore and supported by Cyber Security Agency (CSA).",
+            "Want to compete in CTFs but don't know where to start? Then join us for CTF101, a workshop series targeted at beginners who want to start their CTF journey! You will learn the basics of CTFs and the skills needed to tackle a variety of challenges.",
+            "Lag and Crash is an inter-polytechnic CTF targeted at Polytechnic, Institute of Technical Education and Junior College students. The event is organised between the Polytechnic Cybersecurity Interest Groups.",
+            "A thrilling monthly event brought to you by Gryphons. Brace yourself for mind-bending challenges released every month! The aim? Be the first to draw first blood and claim your bounty!"
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [],
+          "images": []
+        },
+        {
+          "label": "merch",
+          "displayTitle": "Merchandise",
+          "tag": "div",
+          "id": "merch",
+          "ids": [
+            "merch"
+          ],
+          "classes": "justify-center items-center py-24 xl:px-80 lg:px-48 px-20 pt-48 pb-4 bg-gradient-to-b from-gryphons-blue to-violet-900",
+          "text": "Merchandise Designing keepsakes that DCDF students can treasure! We sell course-exclusive merchandise! Since the beginning of the club, we've been running merchandise sales annually for all students of the Diploma in Cybersecurity and Digital Forensics (DCDF) course. We tap into the creativity of our talented Public Relations crew to deliver aesthetically pleasing designs that DCDF students can treasure for years to come. Our merchandise ranges from shirts to windbreakers! Wanna cop one for yourself? Keep a look out for our next merchandise sale in school! Our design team updates our merchandise with new designs every year so that students remain eager for something new and refreshing to keep up with the latest fashion trends! Check Out Our Past Designs!",
+          "headings": [
+            "Merchandise",
+            "We sell course-exclusive merchandise!",
+            "Check Out Our Past Designs!"
+          ],
+          "paragraphs": [
+            "Designing keepsakes that DCDF students can treasure!",
+            "Since the beginning of the club, we've been running merchandise sales annually for all students of the Diploma in Cybersecurity and Digital Forensics (DCDF) course.",
+            "We tap into the creativity of our talented Public Relations crew to deliver aesthetically pleasing designs that DCDF students can treasure for years to come.",
+            "Our merchandise ranges from shirts to windbreakers! Wanna cop one for yourself? Keep a look out for our next merchandise sale in school!",
+            "Our design team updates our merchandise with new designs every year so that students remain eager for something new and refreshing to keep up with the latest fashion trends!"
+          ],
+          "listItems": [],
+          "buttons": [],
+          "links": [],
+          "images": [
+            {
+              "src": "https://gryphons.sg/assets/icons8-shirt-100.png",
+              "alt": ""
+            },
+            {
+              "src": "https://gryphons.sg/assets/merchandise/dcdf_shirt_black.png",
+              "alt": ""
+            },
+            {
+              "src": "https://gryphons.sg/assets/merchandise/dcdf_shirt_white.png",
+              "alt": ""
+            },
+            {
+              "src": "https://gryphons.sg/assets/merchandise/gryphons_varsity_jacket.png",
+              "alt": ""
+            },
+            {
+              "src": "https://gryphons.sg/assets/merchandise/dcdf_windbreaker.png",
+              "alt": ""
+            }
+          ]
+        },
+        {
+          "label": "faq",
+          "displayTitle": "FAQ",
+          "tag": "div",
+          "id": "faq",
+          "ids": [
+            "faq"
+          ],
+          "classes": "justify-center items-center py-24 xl:px-80 lg:px-48 px-20 pt-28 pb-6 bg-gradient-to-b from-violet-900 to-gryphons-blue",
+          "text": "FAQ Have a question? We'll answer them right here! Is Gryphons a CCA? Gryphons is not an official CCA of Singapore Polytechnic (SP). We are, however, a Student Interest Group (SIG) officially recognised by SP School of Computing (SoC). Is Gryphons open to all students of SP? Sorry! Unfortunately, our club is only open to students of SoC. However, we welcome all students from SP to attend our events and even those outside of SP to participate in our CTFs! How do I join Gryphons? We recruit new members around the start of every new academic year. If you're a student of SoC, you might receive a mass email about our recruitment in your school inbox! Am I eligible to join Gryphons? What is the recruitment process like for Gryphons? A form will be available for you to indicate your interest. After which, you'll be invited for an interview where we'll get to know you better! There will also be a mini-CTF for all students of SoC hosted around the same time where we will be looking out for potential candidates! Do I need any prior knowledge to join Gryphons? Having prior cybersecurity experiences or knowledge isn't our make-or-break criteria in deciding whether you can join us. We are looking for students with a growth mindset, a burning passion for cybersecurity and the open-mindedness to learn new things. You should also be willing to commit your time and effort to the club. Where can I keep a look out for Gryphons' events? Follow us on social media to stay updated on our events! Give us a follow on Instagram (@sp.gryphons) and join our Discord server! Do Gryphons have a CTF team? Do Gryphons host regular sessions for their members? Nope! We are an event-based club. That means our members are activated only when there's an event and are required to help out.",
+          "headings": [
+            "FAQ"
+          ],
+          "paragraphs": [
+            "Have a question? We'll answer them right here!"
+          ],
+          "listItems": [],
+          "buttons": [
+            "Is Gryphons a CCA?",
+            "Is Gryphons open to all students of SP?",
+            "How do I join Gryphons?",
+            "Am I eligible to join Gryphons?",
+            "What is the recruitment process like for Gryphons?",
+            "Do I need any prior knowledge to join Gryphons?",
+            "Where can I keep a look out for Gryphons' events?",
+            "Do Gryphons have a CTF team?",
+            "Do Gryphons host regular sessions for their members?"
+          ],
+          "links": [],
+          "images": []
+        },
+        {
+          "label": "footer",
+          "displayTitle": null,
+          "tag": "div",
+          "id": "footer",
+          "ids": [
+            "footer"
+          ],
+          "classes": "flex justify-center items-center py-4 xl:px-56 lg:px-48 px-20 bg-blue-950",
+          "text": "Copyright © 2023 Gryphons. All Rights Reserved. School of Computing, Block T19, Singapore Polytechnic, 500 Dover Road, Singapore 139651",
+          "headings": [],
+          "paragraphs": [],
+          "listItems": [],
+          "buttons": [],
+          "links": [
+            {
+              "text": "",
+              "href": "https://www.instagram.com/sp.gryphons/",
+              "absoluteHref": "https://www.instagram.com/sp.gryphons/",
+              "ariaLabel": null,
+              "target": "_blank"
+            },
+            {
+              "text": "",
+              "href": "https://discord.gg/ch2WmdT9T9",
+              "absoluteHref": "https://discord.gg/ch2WmdT9T9",
+              "ariaLabel": null,
+              "target": "_blank"
+            },
+            {
+              "text": "",
+              "href": "https://github.com/SPGryphons",
+              "absoluteHref": "https://github.com/SPGryphons",
+              "ariaLabel": null,
+              "target": "_blank"
+            },
+            {
+              "text": "",
+              "href": "https://sp-dcdf.blogspot.com/",
+              "absoluteHref": "https://sp-dcdf.blogspot.com/",
+              "ariaLabel": null,
+              "target": "_blank"
+            },
+            {
+              "text": "",
+              "href": "https://www.linkedin.com/company/gryphons",
+              "absoluteHref": "https://www.linkedin.com/company/gryphons",
+              "ariaLabel": null,
+              "target": "_blank"
+            },
+            {
+              "text": "",
+              "href": "mailto:contactus@gryphons.sg",
+              "absoluteHref": "mailto:contactus@gryphons.sg",
+              "ariaLabel": null,
+              "target": "_blank"
+            }
+          ],
+          "images": []
+        }
+      ],
+      "paragraphs": [
+        "A Cybersecurity Student Interest Group based in Singapore Polytechnic",
+        "Gryphons are a group of students from Singapore Polytechnic's School of Computing (SoC) passionate about cybersecurity.",
+        "We warmly welcome students from various disciplines across SoC with a common interest in cybersecurity and provide them with a cohesive community to belong and build technical skills together.",
+        "Exposing DCDF students to the world of information security through hands-on workshops, talks by industry professionals and networking opportunities.",
+        "Providing many opportunities for our students to practice the technical skills they have learned in a safe and controlled environment.",
+        "Singapore Polytechnic Group",
+        "Recognised in January 2013, through student empowerment, the chapter aims to expand recognition of the IT Audit and Assurance, Security and IT Governance disciplines and focus areas by educating students about standards, practices and certification.",
+        "The objectives of this chapter are the same as listed in the Professional Chapter and the Association's by-laws. Members and academic advocates of this Student Chapter are mainly from the Diploma in Cybersecurity and Digital Forensics, School of Computing of Singapore Polytechnic.",
+        "Promoting and elevating the information systems audit, control and security profession throughout Singapore.",
+        "Sponsoring location educational seminars and workshops, conducting regular chapter meetings to foster professional growth for all members.",
+        "The GTACS (Governance, Technology Audit, Control and Security) Conference is an annual event organised by the Singapore Chapter of ISACA. The event has seen strong support from the local ISACA community, including non-ISACA members. Through the series of GTACS conferences, ISACA Singapore Chapter hopes to bring value to the local Governance, Technology Audit, Compliance & Security community by creating a conducive environment for delegates to learn from distinguished experts, network with one another, and to interact with technology leaders.",
+        "Black Hat is an information security event series held annually in the United States, Europe and Asia. With its maiden conference held in 1997, Black Hat has provided attendees with information security research, development, and trends for more than 20 years. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors.",
+        "Events, Talks, Workshops - You name it!",
+        "Gryphons CTF (or GCTF for short) is a jeopardy-style capture-the-flag (CTF) organised by Gryphons ourselves (of course) to expose students to the world of cybersecurity and put their offensive, defensive and investigate skills to the test! Complete challenges across various difficulties and categories to earn points. Climb the leaderboards and stand a chance to win attractive prizes!",
+        "The Youth Cyber Exploration Programme (YCEP) is an exciting cybersecurity bootcamp specially designed to get students excited about their journey towards a cybersecurity career. YCEP was launched in 2018 and is organised by the five local polytechnics, Cyber Youth Singapore and supported by Cyber Security Agency (CSA).",
+        "Want to compete in CTFs but don't know where to start? Then join us for CTF101, a workshop series targeted at beginners who want to start their CTF journey! You will learn the basics of CTFs and the skills needed to tackle a variety of challenges.",
+        "Lag and Crash is an inter-polytechnic CTF targeted at Polytechnic, Institute of Technical Education and Junior College students. The event is organised between the Polytechnic Cybersecurity Interest Groups.",
+        "A thrilling monthly event brought to you by Gryphons. Brace yourself for mind-bending challenges released every month! The aim? Be the first to draw first blood and claim your bounty!",
+        "Designing keepsakes that DCDF students can treasure!",
+        "Since the beginning of the club, we've been running merchandise sales annually for all students of the Diploma in Cybersecurity and Digital Forensics (DCDF) course.",
+        "We tap into the creativity of our talented Public Relations crew to deliver aesthetically pleasing designs that DCDF students can treasure for years to come.",
+        "Our merchandise ranges from shirts to windbreakers! Wanna cop one for yourself? Keep a look out for our next merchandise sale in school!",
+        "Our design team updates our merchandise with new designs every year so that students remain eager for something new and refreshing to keep up with the latest fashion trends!",
+        "Have a question? We'll answer them right here!"
+      ],
+      "listItems": [
+        "About Us",
+        "ISACA",
+        "Events",
+        "Merchandise",
+        "FAQ"
+      ],
+      "buttons": [
+        "Is Gryphons a CCA?",
+        "Is Gryphons open to all students of SP?",
+        "How do I join Gryphons?",
+        "Am I eligible to join Gryphons?",
+        "What is the recruitment process like for Gryphons?",
+        "Do I need any prior knowledge to join Gryphons?",
+        "Where can I keep a look out for Gryphons' events?",
+        "Do Gryphons have a CTF team?",
+        "Do Gryphons host regular sessions for their members?"
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "#",
+          "absoluteHref": "https://gryphons.sg/#",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "About Us",
+          "href": "#aboutus",
+          "absoluteHref": "https://gryphons.sg/#aboutus",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "ISACA",
+          "href": "#isaca",
+          "absoluteHref": "https://gryphons.sg/#isaca",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "Events",
+          "href": "#events",
+          "absoluteHref": "https://gryphons.sg/#events",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "Merchandise",
+          "href": "#merch",
+          "absoluteHref": "https://gryphons.sg/#merch",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq",
+          "absoluteHref": "https://gryphons.sg/#faq",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "Learn More",
+          "href": "#aboutus",
+          "absoluteHref": "https://gryphons.sg/#aboutus",
+          "ariaLabel": null,
+          "target": null
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/sp.gryphons/",
+          "absoluteHref": "https://www.instagram.com/sp.gryphons/",
+          "ariaLabel": null,
+          "target": "_blank"
+        },
+        {
+          "text": "",
+          "href": "https://discord.gg/ch2WmdT9T9",
+          "absoluteHref": "https://discord.gg/ch2WmdT9T9",
+          "ariaLabel": null,
+          "target": "_blank"
+        },
+        {
+          "text": "",
+          "href": "https://github.com/SPGryphons",
+          "absoluteHref": "https://github.com/SPGryphons",
+          "ariaLabel": null,
+          "target": "_blank"
+        },
+        {
+          "text": "",
+          "href": "https://sp-dcdf.blogspot.com/",
+          "absoluteHref": "https://sp-dcdf.blogspot.com/",
+          "ariaLabel": null,
+          "target": "_blank"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/gryphons",
+          "absoluteHref": "https://www.linkedin.com/company/gryphons",
+          "ariaLabel": null,
+          "target": "_blank"
+        },
+        {
+          "text": "",
+          "href": "mailto:contactus@gryphons.sg",
+          "absoluteHref": "mailto:contactus@gryphons.sg",
+          "ariaLabel": null,
+          "target": "_blank"
+        }
+      ],
+      "media": {
+        "images": [
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/GryphonsLightLogo.png",
+            "alt": "gryphonslogo",
+            "width": 1614,
+            "height": 471,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\GryphonsLightLogo.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/Griffin_small_light.png",
+            "alt": "gryphonslogo",
+            "width": 490,
+            "height": 471,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\Griffin_small_light.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/community.png",
+            "alt": "",
+            "width": 920,
+            "height": 920,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\community.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/isaca.png",
+            "alt": "gryphonslogo",
+            "width": 800,
+            "height": 196,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\isaca.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/icons8-shirt-100.png",
+            "alt": "",
+            "width": 100,
+            "height": 100,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\icons8-shirt-100.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/merchandise/dcdf_shirt_black.png",
+            "alt": "",
+            "width": 1500,
+            "height": 1000,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\dcdf_shirt_black.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/merchandise/dcdf_shirt_white.png",
+            "alt": "",
+            "width": 1500,
+            "height": 1000,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\dcdf_shirt_white.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/merchandise/gryphons_varsity_jacket.png",
+            "alt": "",
+            "width": 1500,
+            "height": 1000,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\gryphons_varsity_jacket.png"
+          },
+          {
+            "type": "image",
+            "src": "https://gryphons.sg/assets/merchandise/dcdf_windbreaker.png",
+            "alt": "",
+            "width": 1500,
+            "height": 1000,
+            "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\merchandise\\dcdf_windbreaker.png"
+          }
+        ],
+        "videos": [],
+        "backgrounds": [
+          {
+            "element": "div",
+            "backgroundImage": "url(\"https://gryphons.sg/assets/herobackground.png\")",
+            "assets": [
+              {
+                "url": "https://gryphons.sg/assets/herobackground.png",
+                "localPath": "C:\\gryphons website\\data\\site-assets\\assets\\herobackground.png"
+              }
+            ]
+          },
+          {
+            "element": "div",
+            "backgroundImage": "linear-gradient(rgb(7, 20, 77), rgb(22, 78, 99))"
+          },
+          {
+            "element": "div",
+            "backgroundImage": "linear-gradient(rgb(22, 78, 99), rgb(7, 20, 77))"
+          },
+          {
+            "element": "div",
+            "backgroundImage": "linear-gradient(rgb(7, 20, 77), rgb(76, 29, 149))"
+          },
+          {
+            "element": "div",
+            "backgroundImage": "linear-gradient(rgb(76, 29, 149), rgb(7, 20, 77))"
+          }
+        ]
+      },
+      "rawText": "About Us ISACA Events Merchandise FAQ We Are Gryphons. A Cybersecurity Student Interest Group based in Singapore Polytechnic Learn More Run By Students, For Students. Gryphons are a group of students from Singapore Polytechnic's School of Computing (SoC) passionate about cybersecurity. We warmly welcome students from various disciplines across SoC with a common interest in cybersecurity and provide them with a cohesive community to belong and build technical skills together. Our Mission Statement “Fostering a strong community for all students of School of Computing (SoC) who are passionate about cybersecurity and providing opportunities for all to build technical competencies in cybersecurity through workshops and events.” Sparking Interests Exposing DCDF students to the world of information security through hands-on workshops, talks by industry professionals and networking opportunities. Practical Applications Providing many opportunities for our students to practice the technical skills they have learned in a safe and controlled environment. ISACA Student Chapter Singapore Polytechnic Group We are the official ISACA Student Chapter of Singapore Polytechnic! Recognised in January 2013, through student empowerment, the chapter aims to expand recognition of the IT Audit and Assurance, Security and IT Governance disciplines and focus areas by educating students about standards, practices and certification. The objectives of this chapter are the same as listed in the Professional Chapter and the Association's by-laws. Members and academic advocates of this Student Chapter are mainly from the Diploma in Cybersecurity and Digital Forensics, School of Computing of Singapore Polytechnic. Chapter Missions Expand Recognition Promoting and elevating the information systems audit, control and security profession throughout Singapore. Education Sponsoring location educational seminars and workshops, conducting regular chapter meetings to foster professional growth for all members. Featured Events GTACS The GTACS (Governance, Technology Audit, Control and Security) Conference is an annual event organised by the Singapore Chapter of ISACA. The event has seen strong support from the local ISACA community, including non-ISACA members. Through the series of GTACS conferences, ISACA Singapore Chapter hopes to bring value to the local Governance, Technology Audit, Compliance & Security community by creating a conducive environment for delegates to learn from distinguished experts, network with one another, and to interact with technology leaders. BlackHat Asia Black Hat is an information security event series held annually in the United States, Europe and Asia. With its maiden conference held in 1997, Black Hat has provided attendees with information security research, development, and trends for more than 20 years. Black Hat inspires professionals at all career levels, encouraging growth and collaboration among academia, world-class researchers, and leaders in the public and private sectors. Our Events Events, Talks, Workshops - You name it! 🐉 Gryphons CTF Gryphons CTF (or GCTF for short) is a jeopardy-style capture-the-flag (CTF) organised by Gryphons ourselves (of course) to expose students to the world of cybersecurity and put their offensive, defensive and investigate skills to the test! Complete challenges across various difficulties and categories to earn points. Climb the leaderboards and stand a chance to win attractive prizes! 💻 Youth Cyber Exploration Programme The Youth Cyber Exploration Programme (YCEP) is an exciting cybersecurity bootcamp specially designed to get students excited about their journey towards a cybersecurity career. YCEP was launched in 2018 and is organised by the five local polytechnics, Cyber Youth Singapore and supported by Cyber Security Agency (CSA). ⛳ CTF101 Want to compete in CTFs but don't know where to start? Then join us for CTF101, a workshop series targeted at beginners who want to start their CTF journey! You will learn the basics of CTFs and the skills needed to tackle a variety of challenges. 🎭 Lag and Crash CTF Lag and Crash is an inter-polytechnic CTF targeted at Polytechnic, Institute of Technical Education and Junior College students. The event is organised between the Polytechnic Cybersecurity Interest Groups. 🔥 Gryphons CyberBlitz! A thrilling monthly event brought to you by Gryphons. Brace yourself for mind-bending challenges released every month! The aim? Be the first to draw first blood and claim your bounty! Merchandise Designing keepsakes that DCDF students can treasure! We sell course-exclusive merchandise! Since the beginning of the club, we've been running merchandise sales annually for all students of the Diploma in Cybersecurity and Digital Forensics (DCDF) course. We tap into the creativity of our talented Public Relations crew to deliver aesthetically pleasing designs that DCDF students can treasure for years to come. Our merchandise ranges from shirts to windbreakers! Wanna cop one for yourself? Keep a look out for our next merchandise sale in school! Our design team updates our merchandise with new designs every year so that students remain eager for something new and refreshing to keep up with the latest fashion trends! Check Out Our Past Designs! FAQ Have a question? We'll answer them right here! Is Gryphons a CCA? Gryphons is not an official CCA of Singapore Polytechnic (SP). We are, however, a Student Interest Group (SIG) officially recognised by SP School of Computing (SoC). Is Gryphons open to all students of SP? Sorry! Unfortunately, our club is only open to students of SoC. However, we welcome all students from SP to attend our events and even those outside of SP to participate in our CTFs! How do I join Gryphons? We recruit new members around the start of every new academic year. If you're a student of SoC, you might receive a mass email about our recruitment in your school inbox! Am I eligible to join Gryphons? What is the recruitment process like for Gryphons? A form will be available for you to indicate your interest. After which, you'll be invited for an interview where we'll get to know you better! There will also be a mini-CTF for all students of SoC hosted around the same time where we will be looking out for potential candidates! Do I need any prior knowledge to join Gryphons? Having prior cybersecurity experiences or knowledge isn't our make-or-break criteria in deciding whether you can join us. We are looking for students with a growth mindset, a burning passion for cybersecurity and the open-mindedness to learn new things. You should also be willing to commit your time and effort to the club. Where can I keep a look out for Gryphons' events? Follow us on social media to stay updated on our events! Give us a follow on Instagram (@sp.gryphons) and join our Discord server! Do Gryphons have a CTF team? Do Gryphons host regular sessions for their members? Nope! We are an event-based club. That means our members are activated only when there's an event and are required to help out. Copyright © 2023 Gryphons. All Rights Reserved. School of Computing, Block T19, Singapore Polytechnic, 500 Dover Road, Singapore 139651"
+    }
+  ]
+}
